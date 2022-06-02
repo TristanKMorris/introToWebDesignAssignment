@@ -1,0 +1,31 @@
+body{
+  font-family: sans-serif;
+  font-size:110%;
+  background-color: #FCF7F8;
+}
+
+#profilePhoto{
+  width: 15%;
+  height: 15%;
+}
+
+header {
+  text-align: center;
+}
+#heading{
+  font-family: sans-serif;
+  font: size 110%;
+  background-color: tan;
+}
+
+footer {
+  background-color: #343330;
+  text-align: center;
+}
+#sidebar{
+  width: 25%;
+  background-color: skyblue;
+}
+.navMenu{
+  list-style-type: none;
+}

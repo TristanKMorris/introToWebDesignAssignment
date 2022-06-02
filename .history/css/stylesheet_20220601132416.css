@@ -1,0 +1,17 @@
+body{
+  font-family: sans-serif;
+  font-size:110%;
+  background-color: #FCF7F8;
+}
+
+header {
+  text-align: center;
+}
+#heading{
+  font-family: serif;
+}
+
+footer {
+  background-color: #343330;
+  text-align: center;
+}
